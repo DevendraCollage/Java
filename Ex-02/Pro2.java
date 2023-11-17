@@ -7,7 +7,7 @@ public class Pro2 {
         System.out.println(second); // Answer : 1000
         int third = 5 * 4 / 4 % 3;
         System.out.println(third); // Answer : 2
-        int fourth = 100 + 200 / 10 - 3 - 10;
-        System.out.println(fourth); // Answer : 107
+        int fourth = 100 + 200 / 10 - 3 * 10;
+        System.out.println(fourth); // Answer : 90
     }
 }
